@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace QueueOperations
 {
-    class Task8_BasicQueueOperations
+    internal class Task8_BasicQueueOperations
     {
         static void Main(string[] args)
         {
